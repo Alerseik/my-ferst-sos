@@ -1,0 +1,56 @@
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.exe
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.deps.json
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.runtimeconfig.json
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.runtimeconfig.dev.json
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.dll
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\ref\Пуляев Учёт.dll
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.pdb
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт_MarkupCompile.cache
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт_MarkupCompile.lref
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.g.resources
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.AssemblyInfo.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.dll
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\ref\Пуляев Учёт.dll
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.pdb
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.genruntimeconfig.cache
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window3.g.cs
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window1.baml
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\student\Desktop\Экзамен Пуляев Алексей\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window3.baml
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.exe
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.deps.json
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.runtimeconfig.json
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.runtimeconfig.dev.json
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.dll
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\ref\Пуляев Учёт.dll
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\bin\Debug\net5.0-windows\Пуляев Учёт.pdb
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window1.g.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window3.g.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт_MarkupCompile.cache
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт_MarkupCompile.lref
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window1.baml
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Window3.baml
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.g.resources
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.AssemblyInfo.cs
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.dll
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\ref\Пуляев Учёт.dll
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.pdb
+C:\Users\student\Desktop\Пуляев Учёт\Пуляев Учёт\obj\Debug\net5.0-windows\Пуляев Учёт.genruntimeconfig.cache
